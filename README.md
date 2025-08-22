@@ -15,7 +15,7 @@ Aqui você encontrará iniciativas relacionadas a:
 ## Repositórios
 
 ### 📊 Business Intelligence & Data Analytics
-- [RepositorioDAXeM](https://github.com/SA-Mining/RepositorioDAXeM) – Modelos e scripts em DAX para análises em Power BI e suporte a tomada de decisão.  
+- [RepositorioDAXeM](https://github.com/SaMining/RepositorioDAXeM) – Modelos e scripts em DAX para análises em Power BI e suporte a tomada de decisão.  
 
 ### 🤖 Machine Learning
 - [ML-Telemetricas](https://github.com/SaMining/ML-Telemetricas) – Modelos de aprendizado de máquina aplicados a dados de telemetria para predição e otimização de desempenho.  
